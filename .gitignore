@@ -2,5 +2,11 @@ node_modules/
 /test-results/
 /playwright/.cache/
 /pages/addViewsForVideo.spec.js
-/pages/loginPage.js
-/tests
+/pages/
+/tests/addViewsForVideo2.spec.js
+/tests/addViewsForVideo3.spec.js
+/tests/addViewsForVideo4.spec.js
+/tests/addViewsForVideo5.spec.js
+/tests/addViewsForVideo6.spec.js
+/tests/addViewsForVideo7.spec.js
+/tests/addViewsForVideo8.spec.js
